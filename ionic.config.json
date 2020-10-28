@@ -1,0 +1,7 @@
+{
+  "name": "skyscannerdarkly",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
